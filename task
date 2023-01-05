@@ -1,0 +1,20 @@
+https://github.com/AcroMedia/drupal-orange-project
+
+
+
+
+Warning message
+
+    There have been some configuration changes. It is advisable to download and deploy an updated config.zip to your Solr server.
+    A new Solr field type has been installed due to configuration changes. It is advisable to download and deploy an updated config.zip to your Solr server.
+    All necessary changes to sites/default and sites/default/settings.php have been made, so you should remove write permissions to them now in order to avoid security risks. If you are unsure how to do so, consult the online handbook.
+
+
+
+
+
+
+    Easy Breadcrumb documentation is found in the help module or at https://www.drupal.org/docs/8/modules/easy-breadcrumb.
+    Module Google Analytics granted Opt-in or out of tracking permission to authenticated users.
+    Honeypot installed successfully. Please configure Honeypot to protect your forms from spam bots.
+
